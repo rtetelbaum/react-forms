@@ -303,8 +303,6 @@ with a form.
 
 ## Uncontrolled vs Controlled Components
 
-![Kpop](https://media.giphy.com/media/QcnfLD17Ebt28/giphy.gif)
-
 React provides us with two ways of setting and getting values in form elements.
 These two methods are called _uncontrolled_ and _controlled_ components. The
 differences are subtle, but it's important to recognize them — and use them
